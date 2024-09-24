@@ -1,4 +1,4 @@
-package chapter02.java.BooleanExample;
+package chapter02.BooleanExamples;
 
 public class BooleanExample {
     public static void main(String[] args) {

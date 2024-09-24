@@ -1,4 +1,4 @@
-package FloatiExample;
+package chapter02.FloatiExample;
 
 public class FloatDoubleExample {
     public static void main(String[] args) {
