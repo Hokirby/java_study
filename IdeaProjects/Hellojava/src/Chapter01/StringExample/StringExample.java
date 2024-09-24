@@ -1,4 +1,8 @@
+<<<<<<< HEAD:IdeaProjects/Hellojava/src/Chapter01/StringExample/StringExample.java
 package Chapter01.StringExample;
+=======
+package chapter02.StringExample;
+>>>>>>> 9bffc922e8e55daf8cc4bb54a1294edf274019af:IdeaProjects/Hellojava/src/chapter02/StringExample/StringExample.java
 
 public class StringExample {
     public static void main(String[] args) {

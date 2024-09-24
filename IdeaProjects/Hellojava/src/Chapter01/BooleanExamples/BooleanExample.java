@@ -1,4 +1,8 @@
+<<<<<<< HEAD:IdeaProjects/Hellojava/src/Chapter01/BooleanExamples/BooleanExample.java
 package Chapter01.BooleanExamples;
+=======
+package chapter02.BooleanExamples;
+>>>>>>> 9bffc922e8e55daf8cc4bb54a1294edf274019af:IdeaProjects/Hellojava/src/chapter02/BooleanExamples/BooleanExample.java
 
 public class BooleanExample {
     public static void main(String[] args) {

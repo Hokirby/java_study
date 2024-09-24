@@ -1,4 +1,8 @@
+<<<<<<< HEAD:IdeaProjects/Hellojava/src/Chapter01/FloatiExample/FloatDoubleExample.java
 package Chapter01.FloatiExample;
+=======
+package chapter02.FloatiExample;
+>>>>>>> 9bffc922e8e55daf8cc4bb54a1294edf274019af:IdeaProjects/Hellojava/src/chapter02/FloatiExample/FloatDoubleExample.java
 
 public class FloatDoubleExample {
     public static void main(String[] args) {

@@ -1,4 +1,8 @@
+<<<<<<< HEAD:IdeaProjects/Hellojava/src/Chapter01/IntegerExample/IntegerLiteralExample.java
 package Chapter01.IntegerExample;
+=======
+package chapter02.IntegerExample;
+>>>>>>> 9bffc922e8e55daf8cc4bb54a1294edf274019af:IdeaProjects/Hellojava/src/chapter02/IntegerExample/IntegerLiteralExample.java
 
 public class IntegerLiteralExample {
     public static void main(String[] args) {
