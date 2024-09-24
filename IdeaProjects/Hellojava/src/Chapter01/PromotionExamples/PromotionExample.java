@@ -1,6 +1,4 @@
-package chapter02.PromotionExamples;
-
-import java.sql.SQLOutput;
+package Chapter01.PromotionExamples;
 
 public class PromotionExample {
     public static void main(String[] args) {

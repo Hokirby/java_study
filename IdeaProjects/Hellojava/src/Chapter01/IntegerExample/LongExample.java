@@ -1,4 +1,4 @@
-package chapter02.IntegerExample;
+package Chapter01.IntegerExample;
 
 public class LongExample {
     public static void main(String[] args) {

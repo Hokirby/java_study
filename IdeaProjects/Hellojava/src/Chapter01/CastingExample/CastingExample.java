@@ -1,4 +1,4 @@
-package chapter02.CastingExample;
+package Chapter01.CastingExample;
 
 public class CastingExample {
     public static void main(String[] args) {

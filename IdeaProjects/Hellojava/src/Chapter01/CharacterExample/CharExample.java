@@ -1,4 +1,4 @@
-package chapter02.CharacterExample;
+package Chapter01.CharacterExample;
 
 public class CharExample {
     public static void main(String[] args) {

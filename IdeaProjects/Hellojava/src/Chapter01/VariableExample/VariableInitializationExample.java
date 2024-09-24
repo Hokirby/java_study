@@ -1,4 +1,4 @@
-package chapter02.VariableExample;
+package Chapter01.VariableExample;
 
 public class VariableInitializationExample {
     public static void main (String[] args) {
