@@ -1,4 +1,4 @@
-package Chapter01.PromotionExamples;
+package Chapter02.PromotionExamples;
 
 public class PromotionExample {
     public static void main(String[] args) {

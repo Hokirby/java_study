@@ -1,4 +1,4 @@
-package Chapter01.IntegerExample;
+package Chapter02.IntegerExample;
 
 public class ByteExample {
     public static void main(String[] args) {

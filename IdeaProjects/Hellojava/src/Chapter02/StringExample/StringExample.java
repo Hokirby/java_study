@@ -1,4 +1,4 @@
-package Chapter01.StringExample;
+package Chapter02.StringExample;
 
 public class StringExample {
     public static void main(String[] args) {

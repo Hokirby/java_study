@@ -1,4 +1,4 @@
-package Chapter01.StringConcatExample;
+package Chapter02.StringConcatExample;
 
 public class StringConcatExample {
     public static void main(String[] args) {
