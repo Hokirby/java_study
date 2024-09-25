@@ -1,8 +1,4 @@
-<<<<<<< HEAD:IdeaProjects/Hellojava/src/Chapter01/VariableExample/VariableUseExample.java
 package Chapter01.VariableExample;
-=======
-package chapter02.VariableExample;
->>>>>>> 9bffc922e8e55daf8cc4bb54a1294edf274019af:IdeaProjects/Hellojava/src/chapter02/VariableExample/VariableUseExample.java
 
 public class VariableUseExample {
     public static void main(String[] args) {

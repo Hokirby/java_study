@@ -1,8 +1,4 @@
-<<<<<<< HEAD:IdeaProjects/Hellojava/src/Chapter01/CharacterExample/CharExample.java
 package Chapter01.CharacterExample;
-=======
-package chapter02.CharacterExample;
->>>>>>> 9bffc922e8e55daf8cc4bb54a1294edf274019af:IdeaProjects/Hellojava/src/chapter02/CharacterExample/CharExample.java
 
 public class CharExample {
     public static void main(String[] args) {

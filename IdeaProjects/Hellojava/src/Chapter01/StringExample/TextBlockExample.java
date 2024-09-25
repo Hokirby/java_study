@@ -1,8 +1,4 @@
-<<<<<<< HEAD:IdeaProjects/Hellojava/src/Chapter01/StringExample/TextBlockExample.java
 package Chapter01.StringExample;
-=======
-package chapter02.StringExample;
->>>>>>> 9bffc922e8e55daf8cc4bb54a1294edf274019af:IdeaProjects/Hellojava/src/chapter02/StringExample/TextBlockExample.java
 
 public class TextBlockExample {
     public static void main(String[] args) {
