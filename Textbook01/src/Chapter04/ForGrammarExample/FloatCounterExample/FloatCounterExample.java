@@ -1,4 +1,4 @@
-package java.Chapter04.ForGrammarExample.FloatCounterExample;
+package Chapter04.ForGrammarExample.FloatCounterExample;
 
 public class FloatCounterExample {
     public static void main(String[] args) {

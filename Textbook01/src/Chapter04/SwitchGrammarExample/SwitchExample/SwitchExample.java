@@ -1,4 +1,4 @@
-package java.Chapter04.SwitchGrammarExample.SwitchExample;
+package Chapter04.SwitchGrammarExample.SwitchExample;
 
 public class SwitchExample {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package java.Chapter03.OperaterExample.CompareOperaterExample;
+package Chapter03.OperaterExample.CompareOperaterExample;
 
 public class CompareOperatorExample {
     public static void main(String[] args) {

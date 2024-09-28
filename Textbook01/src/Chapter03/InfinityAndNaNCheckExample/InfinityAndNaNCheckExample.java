@@ -1,4 +1,4 @@
-package java.Chapter03.InfinityAndNaNCheckExample;
+package Chapter03.InfinityAndNaNCheckExample;
 
 public class InfinityAndNaNCheckExample {
     public static void main(String[] args) {

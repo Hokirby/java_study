@@ -1,4 +1,4 @@
-package java.Chapter02.PrimitiveAndStringConversionExample;
+package Chapter02.PrimitiveAndStringConversionExample;
 
 public class PrimitiveAndStringConversionExample {
     public static void main(String[] args) {

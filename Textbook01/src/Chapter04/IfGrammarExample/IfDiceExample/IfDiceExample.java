@@ -1,8 +1,13 @@
-package java.Chapter04.IfGrammarExample.IfDiceExample;
+package Chapter04.IfGrammarExample.IfDiceExample;
 
 public class IfDiceExample {
     public static void main(String[] args) {
         int num = (int)(Math.random() * 6) + 1;
+
+        // 0.0 ~ 1.0
+        // (0.0 ~ 1.0) * 5 = (0.0 ~ 5.0)
+        // (0.0 ~ 5.0) + 1 = (1.0 ~ 6.0)
+        // (int) (1.0 ~ 6.0) = 1 ~ 7
 
         if (num == 1) {
             System.out.println("1번이 나왔습니다.");

@@ -1,4 +1,4 @@
-package java.Chapter04.SwitchGrammarExample.SwitchValueExample;
+package Chapter04.SwitchGrammarExample.SwitchValueExample;
 
 public class SwitchValueExample {
     public static void main(String[] args) {
@@ -19,12 +19,12 @@ public class SwitchValueExample {
         System.out.println("score1: " + score1);
 
         //Java 12부터 가능
-        int score2 = switch(grade) {
+        int score2 = switch(grade) { // enhanced switch expression
             case "A" -> 100;
             case "B" -> {
                 int result = 100 - 20;
                 //Java 13부터 가능
-                yield result;
+                yield result; // return: 함수/ yield: switch 에서
             }
             default -> 60;
         };

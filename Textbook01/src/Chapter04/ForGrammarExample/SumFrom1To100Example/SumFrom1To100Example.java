@@ -1,4 +1,4 @@
-package java.Chapter04.ForGrammarExample.SumFrom1To100Example;
+package Chapter04.ForGrammarExample.SumFrom1To100Example;
 
 public class SumFrom1To100Example {
     public static void main(String[] args) {

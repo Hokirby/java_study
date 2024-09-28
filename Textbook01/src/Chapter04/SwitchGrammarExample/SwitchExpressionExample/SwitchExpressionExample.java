@@ -1,4 +1,4 @@
-package java.Chapter04.SwitchGrammarExample.SwitchExpressionExample;
+package Chapter04.SwitchGrammarExample.SwitchExpressionExample;
 
 public class SwitchExpressionExample {
     public static void main(String[] args) {

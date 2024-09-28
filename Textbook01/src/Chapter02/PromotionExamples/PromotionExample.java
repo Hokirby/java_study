@@ -1,4 +1,4 @@
-package java.Chapter02.PromotionExamples;
+package Chapter02.PromotionExamples;
 
 public class PromotionExample {
     public static void main(String[] args) {
@@ -22,5 +22,6 @@ public class PromotionExample {
         floatValue = 100.5F;
         double doubleValue = floatValue;
         System.out.println("doubleValue: " + doubleValue);
+
     }
 }

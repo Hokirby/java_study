@@ -1,4 +1,4 @@
-package java.Chapter04.SwitchGrammarExample.SwitchNoBreakCaseExample;
+package Chapter04.SwitchGrammarExample.SwitchNoBreakCaseExample;
 
 public class SwitchNoBreakCaseExample {
     public static void main(String[] args) {

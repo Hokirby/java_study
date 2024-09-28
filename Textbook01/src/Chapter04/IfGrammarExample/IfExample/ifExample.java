@@ -1,4 +1,4 @@
-package java.Chapter04.IfGrammarExample.IfExample;
+package Chapter04.IfGrammarExample.IfExample;
 
 public class ifExample {
     public static void main(String[] args) {

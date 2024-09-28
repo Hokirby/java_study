@@ -1,4 +1,4 @@
-package java.Chapter02.StringExample;
+package Chapter02.StringExample;
 
 public class TextBlockExample {
     public static void main(String[] args) {

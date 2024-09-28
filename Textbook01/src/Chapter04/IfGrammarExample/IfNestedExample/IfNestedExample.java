@@ -1,4 +1,4 @@
-package java.Chapter04.IfGrammarExample.IfNestedExample;
+package Chapter04.IfGrammarExample.IfNestedExample;
 
 public class IfNestedExample {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package java.Chapter03.OperaterExample.AssignmentOperatorExample;
+package Chapter03.OperaterExample.AssignmentOperatorExample;
 
 public class AssignmentOperaterExample {
     public static void main(String[] args) {

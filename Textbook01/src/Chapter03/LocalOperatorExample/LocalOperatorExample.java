@@ -1,4 +1,4 @@
-package java.Chapter03.LocalOperatorExample;
+package Chapter03.LocalOperatorExample;
 
 public class LocalOperatorExample {
     public static void main(String[] args) {

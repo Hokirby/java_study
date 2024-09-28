@@ -1,4 +1,4 @@
-package java.Chapter03.OperaterExample.CoditionalOperaterExample;
+package Chapter03.OperaterExample.CoditionalOperaterExample;
 
 public class ConditionalOperatorExample {
     public static void main(String[] args) {

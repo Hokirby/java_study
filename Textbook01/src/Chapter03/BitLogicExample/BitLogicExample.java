@@ -1,9 +1,9 @@
-package java.Chapter03.BitLogicExample;
+package Chapter03.BitLogicExample;
 
 public class BitLogicExample {
     public static void main(String[] args) {
 
-        //비트 논리 연산: 2진수로 바뀌어 계산
+        //비트 논리 연산: 2진수로 바뀌어 계산, 비트연산자
         System.out.println("45 & 25 = " +(45 & 25)); //AND(논리곱): &
         System.out.println("45 | 25 = " +(45 | 25)); //OR(논리합): |
         System.out.println("45 ^ 25 = " + (45 ^ 25));//XOR(배타적 논리합): ^

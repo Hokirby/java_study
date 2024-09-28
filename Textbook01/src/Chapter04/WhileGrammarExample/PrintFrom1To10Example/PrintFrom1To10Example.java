@@ -1,4 +1,4 @@
-package java.Chapter04.WhileGrammarExample.PrintFrom1To10Example;
+package Chapter04.WhileGrammarExample.PrintFrom1To10Example;
 
 public class PrintFrom1To10Example {
     public static void main(String[] args) {

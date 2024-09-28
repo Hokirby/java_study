@@ -1,4 +1,4 @@
-package java.Chapter03.OperaterExample.SignOperatorExample;
+package Chapter03.OperaterExample.SignOperatorExample;
 
 public class SignOperatorExample {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package java.Chapter02.IntegerExample;
+package Chapter02.IntegerExample;
 
 public class IntegerLiteralExample {
     public static void main(String[] args) {

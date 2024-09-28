@@ -1,4 +1,4 @@
-package java.Chapter03.OperaterExample.IncreaseDecreaseOperatorExample;
+package Chapter03.OperaterExample.IncreaseDecreaseOperatorExample;
 
 public class IncreaseDecreaseOperatorExample {
     public static void main(String[] args) {

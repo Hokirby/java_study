@@ -1,4 +1,4 @@
-package java.Chapter02.ScannerExample;
+package Chapter02.ScannerExample;
 
 import java.util.Scanner;
 

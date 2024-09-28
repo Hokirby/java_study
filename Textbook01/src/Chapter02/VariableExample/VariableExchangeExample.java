@@ -1,4 +1,4 @@
-package java.Chapter02.VariableExample;
+package Chapter02.VariableExample;
 
 public class VariableExchangeExample {
     public static void main(String[] args) {

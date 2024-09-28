@@ -1,4 +1,4 @@
-package java.Chapter04.ForGrammarExample.PrintFrom1To10Example;
+package Chapter04.ForGrammarExample.PrintFrom1To10Example;
 
 public class Print1to10Example {
     public static void main(String[] args) {

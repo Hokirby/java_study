@@ -1,4 +1,4 @@
-package java.Chapter04.ForGrammarExample.MultiplicationTableEample;
+package Chapter04.ForGrammarExample.MultiplicationTableEample;
 
 public class MultiplicationTableExample {
     public static void main(String[] args) {

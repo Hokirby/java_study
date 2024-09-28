@@ -1,4 +1,4 @@
-package java.Chapter03.BitShiftExample;
+package Chapter03.BitShiftExample;
 
 public class BitShiftExample1 {
     public static void main(String[] args) {

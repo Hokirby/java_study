@@ -1,4 +1,4 @@
-package java.Chapter02.PrintExample;
+package Chapter02.PrintExample;
 
 public class PrintExample {
     public static void main(String[] args) {

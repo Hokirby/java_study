@@ -1,4 +1,4 @@
-package java.Chapter03.AccuracyExample;
+package Chapter03.AccuracyExample;
 
 public class AccuracyExample {
     public static void main(String[] args) {

@@ -18,3 +18,5 @@
 2024-09-27 19:21:06,200] [INFO ] [SCConfig.cpp:133] ParsingConfig() success.
 2024-09-27 20:17:22,291] [INFO ] [SUServiceConfig.cpp:175] Config File: C:\\ProgramData\Samsung\SamsungUpdate3\config\SU3Service.cfg
 2024-09-27 20:17:22,291] [INFO ] [SCConfig.cpp:133] ParsingConfig() success.
+2024-09-28 09:31:20,264] [INFO ] [SUServiceConfig.cpp:175] Config File: C:\\ProgramData\Samsung\SamsungUpdate3\config\SU3Service.cfg
+2024-09-28 09:31:20,264] [INFO ] [SCConfig.cpp:133] ParsingConfig() success.

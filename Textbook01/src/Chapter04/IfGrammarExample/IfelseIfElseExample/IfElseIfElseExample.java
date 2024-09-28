@@ -1,6 +1,6 @@
-package java.Chapter04.IfGrammarExample.IfelseIfElseExample;
+package Chapter04.IfGrammarExample.IfelseIfElseExample;
 
-public interface IfElseIfElseExample {
+public class IfElseIfElseExample {
     public static void main(String[] args) {
         int score = 75;
 

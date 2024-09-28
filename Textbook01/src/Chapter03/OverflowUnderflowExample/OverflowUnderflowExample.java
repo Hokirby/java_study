@@ -1,4 +1,4 @@
-package java.Chapter03.OverflowUnderflowExample;
+package Chapter03.OverflowUnderflowExample;
 
 public class OverflowUnderflowExample {
     public static void main(String[] args) {
@@ -15,5 +15,17 @@ public class OverflowUnderflowExample {
             var2--;              // --연산은 var1의 값을 1 감소시킴
             System.out.println("var2: " + var2);
         }
+
+        /**
+        * 1000
+        * 1001
+        * 1010
+        * 1100
+        * 1101
+        * 1110
+        * 1111 1 0000 꽉차면 버리기 -> 표현 가능한 가장 작은수
+         *
+        */
+
     }
 }

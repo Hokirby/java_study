@@ -1,4 +1,4 @@
-package java.Chapter02.VariableScopeExample;
+package Chapter02.VariableScopeExample;
 
 public class VariableScopeExample {
     public static void main(String[] args) {

@@ -5,7 +5,61 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c6e20bd-7bcd-47ef-8272-73445016d12f" name="변경" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Textbook01/src/Chapter04/WhileGrammarExample/SumFrom1to100Example/SumFrom1To100Example.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Textbook01/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Textbook01/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Textbook01/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Textbook01/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Textbook01/Project01.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Textbook01/Project01.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Textbook01/src/Chapter02/BooleanExamples/BooleanExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Textbook01/src/Chapter02/BooleanExamples/BooleanExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Textbook01/src/Chapter02/CastingExample/CastingExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Textbook01/src/Chapter02/CastingExample/CastingExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Textbook01/src/Chapter02/CharacterExample/CharExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Textbook01/src/Chapter02/CharacterExample/CharExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Textbook01/src/Chapter02/FloatiExample/FloatDoubleExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Textbook01/src/Chapter02/FloatiExample/FloatDoubleExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Textbook01/src/Chapter02/IntegerExample/ByteExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Textbook01/src/Chapter02/IntegerExample/ByteExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Textbook01/src/Chapter02/IntegerExample/IntegerLiteralExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Textbook01/src/Chapter02/IntegerExample/IntegerLiteralExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Textbook01/src/Chapter02/IntegerExample/LongExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Textbook01/src/Chapter02/IntegerExample/LongExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Textbook01/src/Chapter02/OperationPromotionExample/OperationPromotionExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Textbook01/src/Chapter02/OperationPromotionExample/OperationPromotionExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Textbook01/src/Chapter02/PrimitiveAndStringConversionExample/PrimitiveAndStringConversionExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Textbook01/src/Chapter02/PrimitiveAndStringConversionExample/PrimitiveAndStringConversionExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Textbook01/src/Chapter02/PrintExample/PrintExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Textbook01/src/Chapter02/PrintExample/PrintExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Textbook01/src/Chapter02/PromotionExamples/PromotionExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Textbook01/src/Chapter02/PromotionExamples/PromotionExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Textbook01/src/Chapter02/ScannerExample/ScannerExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Textbook01/src/Chapter02/ScannerExample/ScannerExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Textbook01/src/Chapter02/StringConcatExample/StringConcatExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Textbook01/src/Chapter02/StringConcatExample/StringConcatExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Textbook01/src/Chapter02/StringExample/StringExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Textbook01/src/Chapter02/StringExample/StringExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Textbook01/src/Chapter02/StringExample/TextBlockExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Textbook01/src/Chapter02/StringExample/TextBlockExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Textbook01/src/Chapter02/VariableExample/VariableExchangeExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Textbook01/src/Chapter02/VariableExample/VariableExchangeExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Textbook01/src/Chapter02/VariableExample/VariableInitializationExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Textbook01/src/Chapter02/VariableExample/VariableInitializationExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Textbook01/src/Chapter02/VariableExample/VariableUseExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Textbook01/src/Chapter02/VariableExample/VariableUseExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Textbook01/src/Chapter02/VariableScopeExample/VariableScopeExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Textbook01/src/Chapter02/VariableScopeExample/VariableScopeExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Textbook01/src/Chapter03/AccuracyExample/AccuracyExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Textbook01/src/Chapter03/AccuracyExample/AccuracyExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Textbook01/src/Chapter03/BitLogicExample/BitLogicExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Textbook01/src/Chapter03/BitLogicExample/BitLogicExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Textbook01/src/Chapter03/BitShiftExample/BitShiftExample1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Textbook01/src/Chapter03/BitShiftExample/BitShiftExample1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Textbook01/src/Chapter03/BitShiftExample/BitShiftExample2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Textbook01/src/Chapter03/BitShiftExample/BitShiftExample2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Textbook01/src/Chapter03/InfinityAndNaNCheckExample/InfinityAndNaNCheckExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Textbook01/src/Chapter03/InfinityAndNaNCheckExample/InfinityAndNaNCheckExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Textbook01/src/Chapter03/LocalOperatorExample/LocalOperatorExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Textbook01/src/Chapter03/LocalOperatorExample/LocalOperatorExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Textbook01/src/Chapter03/OperaterExample/ArithmeticOperatorExample/ArithmeticOperatorExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Textbook01/src/Chapter03/OperaterExample/ArithmeticOperatorExample/ArithmeticOperatorExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Textbook01/src/Chapter03/OperaterExample/AssignmentOperatorExample/AssignmentOperaterExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Textbook01/src/Chapter03/OperaterExample/AssignmentOperatorExample/AssignmentOperaterExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Textbook01/src/Chapter03/OperaterExample/CoditionalOperaterExample/ConditionalOperatorExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Textbook01/src/Chapter03/OperaterExample/CoditionalOperaterExample/ConditionalOperatorExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Textbook01/src/Chapter03/OperaterExample/CompareOperaterExample/CompareOperatorExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Textbook01/src/Chapter03/OperaterExample/CompareOperaterExample/CompareOperatorExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Textbook01/src/Chapter03/OperaterExample/IncreaseDecreaseOperatorExample/IncreaseDecreaseOperatorExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Textbook01/src/Chapter03/OperaterExample/IncreaseDecreaseOperatorExample/IncreaseDecreaseOperatorExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Textbook01/src/Chapter03/OperaterExample/SignOperatorExample/SignOperatorExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Textbook01/src/Chapter03/OperaterExample/SignOperatorExample/SignOperatorExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Textbook01/src/Chapter03/OverflowUnderflowExample/OverflowUnderflowExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Textbook01/src/Chapter03/OverflowUnderflowExample/OverflowUnderflowExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Textbook01/src/Chapter04/ForGrammarExample/FloatCounterExample/FloatCounterExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Textbook01/src/Chapter04/ForGrammarExample/FloatCounterExample/FloatCounterExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Textbook01/src/Chapter04/ForGrammarExample/MultiplicationTableEample/MultiplicationTableExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Textbook01/src/Chapter04/ForGrammarExample/MultiplicationTableEample/MultiplicationTableExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Textbook01/src/Chapter04/ForGrammarExample/PrintFrom1To10Example/Print1to10Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/Textbook01/src/Chapter04/ForGrammarExample/PrintFrom1To10Example/Print1to10Example.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Textbook01/src/Chapter04/ForGrammarExample/SumFrom1To100Example/SumFrom1To100Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/Textbook01/src/Chapter04/ForGrammarExample/SumFrom1To100Example/SumFrom1To100Example.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Textbook01/src/Chapter04/IfGrammarExample/IfDiceExample/IfDiceExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Textbook01/src/Chapter04/IfGrammarExample/IfDiceExample/IfDiceExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Textbook01/src/Chapter04/IfGrammarExample/IfElseExample/IfElseExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Textbook01/src/Chapter04/IfGrammarExample/IfElseExample/IfElseExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Textbook01/src/Chapter04/IfGrammarExample/IfExample/ifExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Textbook01/src/Chapter04/IfGrammarExample/IfExample/ifExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Textbook01/src/Chapter04/IfGrammarExample/IfNestedExample/IfNestedExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Textbook01/src/Chapter04/IfGrammarExample/IfNestedExample/IfNestedExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Textbook01/src/Chapter04/IfGrammarExample/IfelseIfElseExample/IfElseIfElseExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Textbook01/src/Chapter04/IfGrammarExample/IfelseIfElseExample/IfElseIfElseExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Textbook01/src/Chapter04/SwitchGrammarExample/SwitchCharExample/SwitchCharExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Textbook01/src/Chapter04/SwitchGrammarExample/SwitchCharExample/SwitchCharExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Textbook01/src/Chapter04/SwitchGrammarExample/SwitchExample/SwitchExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Textbook01/src/Chapter04/SwitchGrammarExample/SwitchExample/SwitchExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Textbook01/src/Chapter04/SwitchGrammarExample/SwitchExpressionExample/SwitchExpressionExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Textbook01/src/Chapter04/SwitchGrammarExample/SwitchExpressionExample/SwitchExpressionExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Textbook01/src/Chapter04/SwitchGrammarExample/SwitchNoBreakCaseExample/SwitchNoBreakCaseExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Textbook01/src/Chapter04/SwitchGrammarExample/SwitchNoBreakCaseExample/SwitchNoBreakCaseExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Textbook01/src/Chapter04/SwitchGrammarExample/SwitchValueExample/SwitchValueExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Textbook01/src/Chapter04/SwitchGrammarExample/SwitchValueExample/SwitchValueExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Textbook01/src/Chapter04/WhileGrammarExample/PrintFrom1To10Example/PrintFrom1To10Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/Textbook01/src/Chapter04/WhileGrammarExample/PrintFrom1To10Example/PrintFrom1To10Example.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Textbook01/src/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/Textbook01/src/Hello.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Textbook01/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Textbook01/src/Projects.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_study/HelloWorld/src/SCLog.log" beforeDir="false" afterPath="$PROJECT_DIR$/java_study/HelloWorld/src/SCLog.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +94,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/admin/Desktop/java_study/Projects/src",
+    "last_opened_file_path": "C:/Users/admin/Desktop/java_study",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -77,6 +131,7 @@
       <workItem from="1727296010160" duration="17000" />
       <workItem from="1727317980219" duration="9000" />
       <workItem from="1727318005458" duration="11000" />
+      <workItem from="1727485633379" duration="33000" />
     </task>
     <servers />
   </component>
