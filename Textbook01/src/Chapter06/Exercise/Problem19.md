@@ -10,7 +10,7 @@ Account account = new Account();
 account.setBalance(10000);
 System.out.println("현재 잔고: " + account.getBalance()); //현재 잔고: 10000
 
-acccount.setBalance(-100);
+account.setBalance(-100);
 System.out.println("현재 잔고: " + account.getBalance()); //현재 잔고: 10000
 
 account.setBalance(20000000);
@@ -29,7 +29,9 @@ public class Account {
 
     static final int MIN_BALANCE = 0;
     static final int MAX_BALANCE = 1000000;
-
+    
+   //Integer.unsignedInt()
+    
     boolean setBalance(int balance) {
         if (MIN_BALANCE<= balance && balance <= MAX_BALANCE) {
             this.balance = balance;
