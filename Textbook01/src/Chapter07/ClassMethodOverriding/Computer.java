@@ -1,4 +1,4 @@
-package Chapter07.MethodOverrriding;
+package Chapter07.ClassMethodOverriding;
 
 public class Computer extends Calculator{
     //메소드 오버라이딩

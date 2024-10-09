@@ -1,4 +1,4 @@
-package Chapter07.MethodOverrriding;
+package Chapter07.ClassMethodOverriding;
 
 public class ComputerExample {
     public static void main(String[] args) {

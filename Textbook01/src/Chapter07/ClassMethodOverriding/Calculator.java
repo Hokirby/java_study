@@ -1,4 +1,4 @@
-package Chapter07.MethodOverrriding;
+package Chapter07.ClassMethodOverriding;
 
 public class Calculator {
     //메소드 선언
