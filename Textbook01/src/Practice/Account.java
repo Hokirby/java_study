@@ -1,4 +1,4 @@
-package Chapter06.Exercise;
+package Practice;
 
 public class Account {
     String accountNum;
