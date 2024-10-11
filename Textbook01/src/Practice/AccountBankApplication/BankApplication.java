@@ -1,4 +1,4 @@
-package Practice;
+package Practice.AccountBankApplication;
 
 import java.util.Scanner;
 

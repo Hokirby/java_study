@@ -1,4 +1,4 @@
-package Practice;
+package Practice.ToDoListApplication;
 
 public class ToDoList {
     String[][] scheduleArray = new String[100][3];

@@ -1,4 +1,4 @@
-package Practice;
+package Practice.AccountBankApplication;
 
 public class Account {
     String accountNum;
