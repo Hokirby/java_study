@@ -53,7 +53,7 @@ public class ToDoList {
         System.out.println("2.메모 목록 확인");
         System.out.println("--------");
         for (int i =0; i <= scheduleNum-1; i ++) {
-            if (scheduleArray[0][0] == null && scheduleArray[0][0].isBlank()) {
+            if (scheduleArray[0][0] == null || scheduleArray[0][0].isBlank()) {
                 System.out.println("메모가 존재하지 않습니다.");
             }
             System.out.printf("날짜: %s 장소: %s 제목: %s", scheduleArray[i][0],scheduleArray[i][1],scheduleArray[i][2]);
@@ -63,12 +63,11 @@ public class ToDoList {
     public int memoRescheduleInfo(String rescheduleEvent) {
         System.out.println();
         for (int i= 0; i <= scheduleNum; i++) {
-            if (scheduleArray[0][0] == null && scheduleArray[0][0].isBlank()) {
+            if (scheduleArray[0][0] == null || scheduleArray[0][0].isBlank()) {
                 System.out.println("메모가 존재하지 않습니다.");
             }
             if (scheduleArray[i][2].equals(rescheduleEvent)) {
-                System.out.printf("날짜: %s 장소: %s 제목: %s", scheduleArray[i][0], scheduleArray[i][1], scheduleArray[i][2]);
-                System.out.println();
+                System.out.printf("날짜: %s 장소: %s 제목: %s\n", scheduleArray[i][0], scheduleArray[i][1], scheduleArray[i][2]);
                 return i;
             }
         }

@@ -5,6 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c6e20bd-7bcd-47ef-8272-73445016d12f" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/Textbook01/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Textbook01/lib/B.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Textbook01/src/Chapter09/Exercise/LambdaExercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Textbook01/src/Chapter10/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Textbook01/src/Chapter10/B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Textbook01/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Textbook01/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Textbook01/Project01.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Textbook01/Project01.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Textbook01/src/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/Textbook01/src/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Textbook01/src/Chapter09/NestedInterface/Button03/ButtonExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Textbook01/src/Chapter09/NestedInterface/Button03/ButtonExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Textbook01/src/Practice/ToDoListApplication/ToDoList.java" beforeDir="false" afterPath="$PROJECT_DIR$/Textbook01/src/Practice/ToDoListApplication/ToDoList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java_study/HelloWorld/src/SCLog.log" beforeDir="false" afterPath="$PROJECT_DIR$/java_study/HelloWorld/src/SCLog.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,22 +45,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/admin/Desktop/java_study/Textbook01",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/admin/Desktop/java_study/Textbook01&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\admin\Desktop\java_study\IdeaProjects\이것이_자바다\src" />
@@ -80,6 +90,7 @@
       <workItem from="1727318005458" duration="11000" />
       <workItem from="1727485633379" duration="33000" />
       <workItem from="1727519889092" duration="143000" />
+      <workItem from="1728710358165" duration="45000" />
     </task>
     <servers />
   </component>
