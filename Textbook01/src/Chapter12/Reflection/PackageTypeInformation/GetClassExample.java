@@ -4,7 +4,7 @@ package Chapter12.Reflection.PackageTypeInformation;
 
 
 public class GetClassExample {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws Exception {
         //how1
         Class clazz = Car.class;
 
