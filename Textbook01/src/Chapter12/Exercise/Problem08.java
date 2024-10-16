@@ -1,8 +1,8 @@
 package Chapter12.Exercise;
 
-public class Average {
+public class Problem08 {
     public static void main(String[] args) {
-        long beforeTime = System.currentTimeMillis();
+        long beforeTime = System.nanoTime();
 
         int[] scores = new int[1000];
         for (int i = 0; i < scores.length; i++) {
@@ -14,10 +14,11 @@ public class Average {
             sum += score;
         }
         double avg = sum / scores.length;
+        long afterTime = System.nanoTime();
+
         System.out.println(avg);
 
-        long afterTime = System.currentTimeMillis();
-        long runTime = (afterTime - beforeTime) / 1000;
-        System.out.println("시간차이: " + runTime + "분");
+        long runTime = afterTime - beforeTime;
+        System.out.println("실행 시간: " + runTime + "나노초");
     }
 }
