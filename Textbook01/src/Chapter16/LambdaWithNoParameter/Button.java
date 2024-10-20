@@ -1,4 +1,4 @@
-package Chapter16;
+package Chapter16.LambdaWithNoParameter;
 
 public class Button {
     //정적 멤버 인터페이스

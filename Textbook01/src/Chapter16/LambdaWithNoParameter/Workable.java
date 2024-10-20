@@ -1,4 +1,4 @@
-package Chapter16;
+package Chapter16.LambdaWithNoParameter;
 
 @FunctionalInterface
 public interface Workable {

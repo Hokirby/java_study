@@ -1,4 +1,4 @@
-package Chapter16;
+package Chapter16.LambdaWithNoParameter;
 
 public class Person {
     public void action(Workable workable) {

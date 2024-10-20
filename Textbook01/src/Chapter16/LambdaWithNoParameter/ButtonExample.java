@@ -1,4 +1,4 @@
-package Chapter16;
+package Chapter16.LambdaWithNoParameter;
 
 public class ButtonExample {
     public static void main(String[] args) {
