@@ -15,7 +15,7 @@ public class TreeSetExample {
         scores.add(95);
         scores.add(80);
 
-        //정렫뇌 Integer 객체를 가져오기
+        //정렬된 Integer 객체를 가져오기
         for (Integer s : scores) {
             System.out.print(s + " ");
         }
