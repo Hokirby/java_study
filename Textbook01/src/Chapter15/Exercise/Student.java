@@ -8,18 +8,5 @@ public class Student {
         this.studentNum = studentNum;
         this.name = name;
     }
-
-    @Override
-    public int hashCode() {
-        return studentNum;
-    }
-
-    @Override
-    public boolean equals(Object obj) {
-        if (obj instanceof Student student) {
-            return student.studentNum == studentNum;
-        } else {
-            return false;
-        }
-    }
+    //여기에 코드를 작성하세요.
 }
