@@ -1,4 +1,4 @@
-package Chapter17.SortingElement.SortingComparableImplement;
+package Chapter17.Sorting.SortingComparableImplement;
 
 public class Student implements  Comparable<Student> {
     private String name;
