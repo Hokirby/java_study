@@ -1,7 +1,5 @@
 package Exercise.Exercise1000;
 
-import java.util.Arrays;
-
 public class Problem022 {
     public static int topIndex(int[] scores) {
         int maxNum = 0;
